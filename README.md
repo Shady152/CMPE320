@@ -1,1 +1,1 @@
-# CMPE320: Assignment Solutions
+# CMPE320: Assignments
